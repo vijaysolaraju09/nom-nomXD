@@ -1,0 +1,27 @@
+
+.header {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  padding: 45px 100px 0;
+}
+.nav-brands {
+  font-size: 14px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.nav-logos {
+  margin-right: 10px;
+}
+.header li {
+  list-style: none;
+}
+
+.nav-links {
+  font-size: 18px;
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: 400;
+  margin-right: 35px;
+}

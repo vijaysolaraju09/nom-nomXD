@@ -1,0 +1,16 @@
+.explore-title {
+    font-weight: 500;
+    font-size: 40px;
+    color: #282828;
+}
+
+.explore-things {
+    font-size: 22px;
+    border: 0.8px solid rgba(40, 40, 40, 0.2);
+    border-radius: 15px;
+    padding: 23px 20px;
+}
+.explore-things p {
+    color: #282828;
+    margin: 0;
+}
