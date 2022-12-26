@@ -35,7 +35,7 @@ const Collections = () => {
         </div>
 
         <div className="d-flex">
-          {recipes.map((recipeItem) => (
+          {recipes?.map((recipeItem) => (
             <div className="text-white card m-2 card-item" key={recipeItem.id}>
               <img className="card-img" src={recipeItem.image} alt="Card image" />
               <div className="card-img-overlay">
